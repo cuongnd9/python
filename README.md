@@ -1,4 +1,4 @@
-# simple-python
+# Python Starter
 
 > 🐍 Getting Started with Python.
 
