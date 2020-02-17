@@ -1,4 +1,4 @@
-# Python Starter
+# python
 
 > 🐍 Getting Started with Python.
 
